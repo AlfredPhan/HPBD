@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "HAPPY BIRTHDAY MY BROTHER" //Lời mở đầu cho bức thư
-const mainContentLetter = "Hơi sến nhưng mà chúc a3 mau hết bệnh và sinh nhật vui vẻ" //Nội dung của bức thư
+const contentLetterSrart_actived = "HAPPY BIRTHDAY TO ..." //Lời mở đầu cho bức thư
+const mainContentLetter = "Gửi lời chúc tại đây ..." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
